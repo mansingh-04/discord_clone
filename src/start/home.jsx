@@ -6,16 +6,16 @@ export default function Home() {
     <div className="home-container">
       <header className="home-header">
         <div className="logo">
-          <h1>Discordly</h1>
+          <h1>VibeCord</h1>
         </div>
       </header>
 
       <main className="home-main">
-        <h2 className="home-title">IMAGINE A PLACE...</h2>
+        <h2 className="home-title">IMAGINE A PLACE TO CONNECT TO YOUR PEERS.....</h2>
         <p className="home-description">
-          ...where you can belong to a school club, a gaming group, or a worldwide art community.
-          Where just you and a handful of friends can spend time together. A place that makes it
-          easy to talk every day and hang out more often.
+          VibeCord is a modern, Discord-inspired communication platform designed to deliver smooth, real-time user interaction with a sleek and intuitive interface. Whether you're building a community or just chatting with friends, VibeCord provides the foundation for effortless conversation.
+
+          Connect. Communicate. Vibe.
         </p>
         <div className="home-buttons">
           <Link to="/Register">
